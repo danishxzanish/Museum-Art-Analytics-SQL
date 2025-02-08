@@ -42,9 +42,16 @@ This project analyzes a dataset of **famous paintings**, focusing on **museum lo
 ✅ **SQL Queries for Data Analysis**  
 ✅ **Data Cleaning & Transformation**  
 
+## 🖥️ **Project Preview**
+🔹 Below are screenshots showcasing SQL queries executed in **SSMS** and the resulting outputs.  
+
+📌 **SQL Query Execution in SSMS**  
+📌 **Sample Query Output**  
+![image](https://github.com/user-attachments/assets/89144c18-254b-4108-a968-86be8557e0f3)
+
+
 ## 🚀 **Next Steps**
 - Visualize key findings using **Power BI or Tableau**.
 - Expand the dataset by integrating external museum APIs.
 
 📂 **Stay tuned for more updates!** 😊
-
